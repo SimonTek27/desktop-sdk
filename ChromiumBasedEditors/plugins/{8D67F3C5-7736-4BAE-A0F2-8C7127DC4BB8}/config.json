@@ -4,6 +4,7 @@
         "ru": "Настройки",
         "fr": "Paramètres",
         "es": "Ajustes",
+	"it": "Impostazioni",
         "de": "Einstellungen"
     },
     "guid" : "asc.{8D67F3C5-7736-4BAE-A0F2-8C7127DC4BB8}",
@@ -17,6 +18,7 @@
                 "ru": "Настройки",
                 "fr": "Paramètres",
                 "es": "Ajustes",
+		"it": "Impostazioni",
                 "de": "Einstellungen"
             },
             "url"         : "index.html",
@@ -46,6 +48,7 @@
                         "ru": "Отмена",
                         "fr": "Annuler",
                         "es": "Cancelar",
+			"it": "Annulla",
                         "de": "Abbrechen"
                     }
                 }
